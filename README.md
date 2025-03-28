@@ -1,5 +1,7 @@
-# Pandoc Installation and Usage Guide
+# Markdown (.md) files are popular for their simplicity, readability, and compatibility with various tools used by developers, writers, and technical documentation specialists. However, you can face a situation when  you have to have .docx file and not .md. Down below you will find how to do it easily. 
+***
 
+# Pandoc Installation and Usage Guide
 ## Windows OS
 
 1. **Download Pandoc**: [https://pandoc.org/installing.html](https://pandoc.org/installing.html)
