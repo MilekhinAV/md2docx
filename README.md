@@ -42,5 +42,5 @@
 
 > You may use [this provided template](#) or any other `.docx` template.
 
-**Note:** In your `output.docx`, format all code-related content using the style named **"Чанк кода"/"Code chunk"**.
+**Note:** In your `output.docx`, format all code-related content using the style named **"Чанк кода"/"Code chunk"**, if you use provided template. 
 
