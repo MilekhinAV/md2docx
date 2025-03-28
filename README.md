@@ -1,4 +1,4 @@
-# Markdown (.md) files are popular for their simplicity, readability, and compatibility with various tools used by developers, writers, and technical documentation specialists. However, you can face a situation when  you have to have .docx file and not .md. Down below you will find how to do it easily. 
+Markdown (`.md`) files are widely used due to their simplicity, readability, and compatibility across development and documentation tools. However, sometimes you'll need your content in Word (`.docx`) format instead. Below you'll find an easy guide to converting Markdown files to DOCX using Pandoc.
 ***
 
 # Pandoc Installation and Usage Guide
