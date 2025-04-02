@@ -4,16 +4,19 @@ Markdown (`.md`) files are widely used due to their simplicity, readability, and
 # Pandoc Installation and Usage Guide
 ## Windows OS
 
-1. **Download Pandoc**: [https://pandoc.org/installing.html](https://pandoc.org/installing.html)
-2. **Check Installation**: Open Command Prompt and run:
+1. **Download Pandoc**: [https://pandoc.org/installing.html](https://pandoc.org/installing.html) or you can you Winget:
+```powershell
+winget install --id JohnMacFarlane.Pandoc --exact --source winget
+```
+3. **Check Installation**: Open Command Prompt and run:
    ```bash
    pandoc --version
    ```
-3. **Install pywin32**: Execute the following in Command Prompt:
+4. **Install pywin32**: Execute the following in Command Prompt:
    ```bash
    pip install pywin32
    ```
-4. **Convert Markdown to DOCX**: Navigate to the folder containing your files (`input.md` and `template.docx`) and run:
+5. **Convert Markdown to DOCX**: Navigate to the folder containing your files (`input.md` and `template.docx`) and run:
    ```bash
    pandoc -s input.md -o output.docx --reference-doc=template.docx
    ```
